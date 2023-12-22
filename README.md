@@ -1,0 +1,1 @@
+- [LangChain > Components > LLMs > Azure OpenAI](https://python.langchain.com/docs/integrations/llms/azure_openai)
